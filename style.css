@@ -1,0 +1,81 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    background-color: hsl(47, 88%, 63%);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Figtree;
+    }
+    
+    .first{
+      background-color: white;
+      height: 60vh;
+      width: 300px;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 10px 10px 5px black;
+      outline: 1px solid black;
+    }
+    
+    .first img{
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .box1{
+        background-color: hsl(47, 88%, 63%);
+        height: 27px;
+        width: 85px;
+        border-radius: 5px;
+        text-align: center;
+        padding-top: 6px;
+        margin-top: 20px;
+    }
+    
+    .txt1{
+      background-color: white;
+      margin-top: 10px;
+      Font-size: 25px;
+      font-weight: 700;
+      color:hsl(0, 0%, 7%);
+    }
+    
+    .txt2{
+      background-color: white;
+      margin-top: 10px;
+      color: hsl(0, 0%, 50%);
+
+    }
+
+    .img img{
+        background-color: white;
+        width:60px; 
+        height:60px;
+    }
+    .div{
+        margin-top: 20px;
+        background-color: white;
+        display: flex;
+        justify-content:flex-start;
+    }
+
+    .text3{
+        margin-left: 20px;
+        background-color: white;
+    }
+
+    p{
+    background-color: white;
+    }
+
+    p b{
+        background-color: white;
+    }
